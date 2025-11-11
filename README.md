@@ -10,7 +10,7 @@
 
 1. 克隆本项目
     ```bash
-    git clone https://github.com/Motues/IndexPage.git
+    git clone https://github.com/fhowotop/IndexPage.git
     cd IndexPage
     ```
 2. 运行 `pnpm install` 安装依赖
