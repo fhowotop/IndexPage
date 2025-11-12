@@ -36,7 +36,19 @@ export const profileConfig: ProfileConfig = {
             name: "GitHub",
             url: "https://github.com/fhowotop",
             icon: "fa6-brands:github",
-            color: "#888",
+            color: "#303030ff",
+        },
+        {
+            name: "Twitter",
+            url: "https://twitter.com/fhowotop",
+            icon: "ri:twitter-x-fill",
+            color: "#000000ff",
+        },
+        {
+            name: "Telegram",
+            url: "https://t.me/fhowo",
+            icon: "fa6-brands:telegram",
+            color: "#0088ccff",
         },
         // {
         //     name: "QQ",
@@ -48,7 +60,7 @@ export const profileConfig: ProfileConfig = {
             name: "Mail",
             url: "mailto:me@fhowo.top",
             icon: "fa6-solid:envelope",
-            color: "#43a4d1ff"
+            color: "#a4f39aff"
         },
     ]
 }
