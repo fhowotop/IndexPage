@@ -6,7 +6,7 @@
 - IndexPage: [访问我的主页站点🌱](https://fhowo.top)
 - Blog: [要看看我的博客嘛✨](https://blog.fhowo.top)
 - X: [关注我的Twitter喵😋](https://twitter.com/fhowotop)
-- Telegram: [添加我的联系人💕](https://t.me/fhowo)
+- Telegram: [添加我为联系人💕](https://t.me/fhowo)
 - Mail: [点击发送邮件✏️](mailto:me@fhowo.top)
 ---
 <div align="center">
